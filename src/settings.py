@@ -15,12 +15,12 @@ from dataset_tools.templates import (
 ##################################
 PROJECT_NAME: str = "Apple Dataset Benchmark from Orchard Environment"
 PROJECT_NAME_FULL: str = "Apple Dataset Benchmark from Orchard Environment in Modern Fruiting Wall"
-HIDE_DATASET = True  # set False when 100% sure about repo quality
+HIDE_DATASET = False  # set False when 100% sure about repo quality
 
 ##################################
 # * After uploading to instance ##
 ##################################
-LICENSE: License = License.Unknown()
+LICENSE: License = License.OpenAccess()
 APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.Agricultural()]
 CATEGORY: Category = Category.Agriculture(extra=Category.Robotics())
 
