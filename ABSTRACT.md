@@ -1,0 +1,1 @@
+Dataset comprises 2,298 images. These zipped files contain images of apple trees with fruits captured during robotic harvesting and yield estimation studies at Washington State University from multiple years, different time of the day and multiple varieties using multiple sensors with modern fruiting wall architecture.
