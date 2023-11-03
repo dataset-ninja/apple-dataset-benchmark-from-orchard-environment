@@ -31,7 +31,7 @@ RELEASE_DATE: Optional[str] = None  # e.g. "YYYY-MM-DD"
 if RELEASE_DATE is None:
     RELEASE_YEAR: int = 2019
 
-HOMEPAGE_URL: str = " https://hdl.handle.net/2376/17721"
+HOMEPAGE_URL: str = "https://hdl.handle.net/2376/17721"
 # e.g. "https://some.com/dataset/homepage"
 
 PREVIEW_IMAGE_ID: int = 4961433
@@ -61,7 +61,8 @@ BLOGPOST: Optional[Union[str, List[str], Dict[str, str]]] = None
 REPOSITORY: Optional[Union[str, List[str], Dict[str, str]]] = None
 
 CITATION_URL: Optional[str] = "https://hdl.handle.net/2376/17721"
-AUTHORS: Optional[List[str]] = ["Santosh Bhusal", "Manoj Karkee" , "Qin Zhang" ]
+AUTHORS: Optional[List[str]] = ["Santosh Bhusal", "Manoj Karkee", "Qin Zhang"]
+AUTHORS_CONTACTS: Optional[List[str]] = ["https://www.researchgate.net/profile/Santosh-Bhusal","https://www.researchgate.net/profile/Manoj-Karkee"]
 
 ORGANIZATION_NAME: Optional[Union[str, List[str]]] = "Washington State University"
 ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://wsu.edu/"
@@ -115,6 +116,7 @@ def get_settings():
     settings["repository"] = REPOSITORY
     settings["citation_url"] = CITATION_URL
     settings["authors"] = AUTHORS
+    settings["authors_contacts"] = AUTHORS_CONTACTS
     settings["organization_name"] = ORGANIZATION_NAME
     settings["organization_url"] = ORGANIZATION_URL
     settings["slytagsplit"] = SLYTAGSPLIT
