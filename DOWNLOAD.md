@@ -1,6 +1,6 @@
 Dataset **Apple Dataset Benchmark from Orchard Environment** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://www.dropbox.com/scl/fi/ajcn5g642vzc60p7eqmfi/apple-dataset-benchmark-from-orchard-environment-DatasetNinja.tar?rlkey=o92k6cr136rteodbcc6k6tioe&dl=1)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzIyMzFfQXBwbGUgRGF0YXNldCBCZW5jaG1hcmsgZnJvbSBPcmNoYXJkIEVudmlyb25tZW50L2FwcGxlLWRhdGFzZXQtYmVuY2htYXJrLWZyb20tb3JjaGFyZC1lbnZpcm9ubWVudC1EYXRhc2V0TmluamEudGFyIiwgInNpZyI6ICJ1N1IxUlQ1bmtFNmhCQk1uRnpLVTRnT1lidSttMFR1SXBFWWR5dkpXUHpNPSJ9)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
