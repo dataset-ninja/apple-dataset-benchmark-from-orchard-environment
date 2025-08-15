@@ -1,6 +1,6 @@
 Dataset **Apple Dataset Benchmark from Orchard Environment** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzIyMzFfQXBwbGUgRGF0YXNldCBCZW5jaG1hcmsgZnJvbSBPcmNoYXJkIEVudmlyb25tZW50L2FwcGxlLWRhdGFzZXQtYmVuY2htYXJrLWZyb20tb3JjaGFyZC1lbnZpcm9ubWVudC1EYXRhc2V0TmluamEudGFyIiwgInNpZyI6ICJ1N1IxUlQ1bmtFNmhCQk1uRnpLVTRnT1lidSttMFR1SXBFWWR5dkpXUHpNPSJ9)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogInMzOi8vc3VwZXJ2aXNlbHktZGF0YXNldHMvMjIzMV9BcHBsZSBEYXRhc2V0IEJlbmNobWFyayBmcm9tIE9yY2hhcmQgRW52aXJvbm1lbnQvYXBwbGUtZGF0YXNldC1iZW5jaG1hcmstZnJvbS1vcmNoYXJkLWVudmlyb25tZW50LURhdGFzZXROaW5qYS50YXIiLCAic2lnIjogImVKaDJvaDhTRi9aRmdRa0RWbW1ObmZUY0VkOGx2K3djeHNCQ1NPU0Zvalk9In0=?response-content-disposition=attachment%3B%20filename%3D%22apple-dataset-benchmark-from-orchard-environment-DatasetNinja.tar%22)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
